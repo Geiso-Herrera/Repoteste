@@ -1,2 +1,2 @@
 # Repoteste
-Arquivo de reporitorio para teste
+Arquivo de repositorio para teste
